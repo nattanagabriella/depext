@@ -1,0 +1,19 @@
+TURMA: Turma Geral
+TOTAL: 15
+ALUNOS:
+Dra. Alana Porto
+Alexandre Martins
+Srta. Ana Júlia Ramos
+Esther Rodrigues
+Lavínia Cunha
+Dra. Lavínia Lopes
+Letícia Cunha
+Luiz Miguel Azevedo
+Nathan Nascimento
+Natália Gomes
+Pietra Martins
+Thales Farias
+Thomas Peixoto
+Vitor Hugo Lima
+Yago Ramos
+
